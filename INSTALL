@@ -1,0 +1,9 @@
+Building Lymiacoin
+
+See doc/readme-qt.rst for instructions on building Lymiacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Lymiacoin.
+
+See doc/build-*.txt for instructions on building lymiacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Lymiacoin.
