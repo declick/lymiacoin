@@ -7,6 +7,8 @@ Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2023 Lymiacoin Developers
 
+![image](https://github.com/declick/lymiacoin/assets/36468501/afa48e53-7d28-4b5d-acc3-d5ef8afbff8b)
+
 What is Lymiacoin?
 ----------------
 
