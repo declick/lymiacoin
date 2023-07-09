@@ -1,8 +1,6 @@
 Lymiacoin integration/staging tree
 ================================
 
-http://www.lymiacoin.org
-
 Copyright (c) 2009-2014 Bitcoin Developers 
 
 Copyright (c) 2011-2014 Litecoin Developers 
