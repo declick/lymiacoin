@@ -1,5 +1,5 @@
 Lymiacoin integration/staging tree
-================================
+================================ 
 
 Copyright (c) 2009-2014 Bitcoin Developers 
 
