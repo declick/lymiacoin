@@ -19,9 +19,6 @@ The rest is the same as Bitcoin.
  - 20 coins per block
  - 2025 blocks to retarget difficulty
 
-For more information, as well as an immediately useable, binary version of
-the Lymiacoin client sofware, see http://www.lymiacoin.org.
-
 License
 -------
 
